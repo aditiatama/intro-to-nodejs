@@ -15,5 +15,7 @@
     "moment": "^2.29.1"
   },
   "preferGlobal": true,
-  "bin": "./index.js"
+  "bin": {
+    "world-cup": "index.js"
+  }
 }

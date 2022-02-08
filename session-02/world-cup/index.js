@@ -1,4 +1,4 @@
-#!usr/bin/env node
+#!usr/bin/env bash
 
 const program = require('commander')
 const models = require('./models/manage')
